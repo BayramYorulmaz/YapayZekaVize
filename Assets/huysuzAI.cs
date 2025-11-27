@@ -136,7 +136,7 @@ public class huysuzAI : MonoBehaviour
     public void hasarAl()
     {
         Debug.Log("Huysuz Hasar Aldý");
-        Can -= 35; // Caný 35 birim azalt
+        Can -= 40; // Caný 40 birim azalt
     }
 
     // Saldýrý Mantýðý Coroutine
